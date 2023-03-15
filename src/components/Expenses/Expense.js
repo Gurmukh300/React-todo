@@ -21,8 +21,6 @@ const Expense = (props) => {
             amount={expense.amount}
             date={expense.date}>
             </ExpenseItem>)}
-
-            
         </Card>
         </div>
     )
